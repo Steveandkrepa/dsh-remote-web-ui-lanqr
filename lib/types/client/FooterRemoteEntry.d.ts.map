@@ -1,0 +1,1 @@
+{"version":3,"file":"FooterRemoteEntry.d.ts","sourceRoot":"","sources":["../../../src/client/FooterRemoteEntry.tsx"],"names":[],"mappings":"AAAA;;;;;;;GAOG;AACH,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,kCAAkC,CAAA;AAGnE,gFAAgF;AAChF,MAAM,MAAM,sBAAsB,GAAG,WAAW,CAAC,QAAQ,CAAC,GAAG;IAC3D,oEAAoE;IACpE,IAAI,EAAE,OAAO,CAAA;CACd,CAAA;AAED;;;;GAIG;AACH,wBAAgB,iBAAiB,CAAC,KAAK,EAAE,sBAAsB,+BAO9D"}
